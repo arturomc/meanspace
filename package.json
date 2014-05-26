@@ -1,20 +1,17 @@
 {
-  "name": "mean",
-  "description": "MEAN.io: A fullstack javascript platformed powerd by MongoDB, ExpressJS, AngularJS, NodeJS.",
-  "version": "0.3.3",
+  "name": "meanspace",
+  "description": "implementación abierta de una red social en MEAN, apoyada por el stack mean.io",
+  "version": "1.0.0",
   "private": false,
-  "author": "Linnovate <mean@linnovate.net>",
+  "author": "Blue Ribbon TI <arturo.mosqueda@blueribbon-ti.com>",
   "contributors": [
-    { "name": "Lior Kesos", "mail": "lior@linnovate.net" },
-    { "name": "Yonatan Ellman", "mail": "yonatan@linnovate.net" },
-    { "name": "Ehud Shahak", "mail": "ehud@linnovate.net" },
-    { "name": "Amos Haviv", "mail": "mail@amoshaviv" },
-    { "name": "Drew Fyock", "mail": "drew@steelbisondev.com" }
+    { "name": "Laura Rojas", "mail": "laura.rojas@blueribbon-ti.com" },
+    { "name": "Emma Rojas", "mail": "emma.rojas@blueribbon-ti.com" }
   ],
   "mean": "0.3.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/linnovate/mean.git"
+    "url": "https://github.com/aturomc/meanspace.git"
   },
   "engines": {
     "node": "0.10.x",

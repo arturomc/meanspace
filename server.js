@@ -27,4 +27,4 @@ console.log('Mean app started on port ' + config.port + ' (' + process.env.NODE_
 logger.init(app, passport, mongoose);
 
 // Expose app
-exports = module.exports = app;
+module.exports = app;
